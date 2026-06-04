@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "api/estimate.py": {
+      "runtime": "vercel-python@3.0.7",
+      "maxDuration": 60,
+      "memory": 1024
+    }
+  }
+}

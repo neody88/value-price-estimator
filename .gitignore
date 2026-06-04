@@ -1,0 +1,13 @@
+.next/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
+.vercel/
+/tmp/
+*.egg-info/
+.DS_Store
+.omc/
+.playwright-mcp/
+ui-*.png
